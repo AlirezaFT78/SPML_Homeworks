@@ -31,4 +31,3 @@ Slides, recommended readings, and assignments are all accessible at the [course 
 | 3    | Defensive Distillation & Black-Box Attacks                         | Code + Report    |
 | 4    | Model Extraction & Data Poisoning                                  | Code + Report    |
 | 5    | Differential Privacy & Federated Learning                          | Code + Report    |
-| …    | Additional Topics (e.g. Backdoor Defense, LLM Security, etc.)      | Code + Report    |

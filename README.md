@@ -11,12 +11,12 @@ The course explores vulnerabilities in machine learning systems and defense mech
 
 The homeworks are based on cutting-edge research and practices in:
 
-- 🔒 Adversarial Examples, Attacks & Defenses  
-- 🧬 Data Poisoning & Backdoor Attacks  
-- 🧠 Model Extraction & Inference Attacks  
-- 🔍 Membership Inference  
+- ⚔️ Adversarial Examples, Attacks & Defenses  
+- ☠️ Data Poisoning & Backdoor Attacks  
+- 🧠 Model Extraction
+- 🕵️ Membership Inference  
 - 🔐 Differential Privacy  
-- 🧠 LLM Security  
+- 🤖 LLM Security  
 
 Slides, recommended readings, and assignments are all accessible at the [course homepage](https://spml2024.github.io/).
 

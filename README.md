@@ -4,6 +4,7 @@ This repository contains my completed assignments for the course **Security and 
 Course link: [spml2024.github.io](https://spml2024.github.io)
 
 The course explores vulnerabilities in machine learning systems and defense mechanisms against them, with hands-on assignments focused on attacks and defenses across privacy, robustness, and more.
+
 ---
 
 ## 📚 Course Topics
